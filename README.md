@@ -1,6 +1,6 @@
 # Lab7_php_dasar
 
-- Tempat menyimoan file
+- Tempat menyimpan file
   
 ![aja1](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/16f3d21c-19bb-4cd2-b661-76ebc4053735)
 
